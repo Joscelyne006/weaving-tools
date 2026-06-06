@@ -1,5 +1,5 @@
 ---
-title: " Diagram of Loom"
+title: "Diagram of Loom "
 ---
 
 Here is a diagram of a loom and it depicts the parts/tools within a loom. The visual allows us to see how specific tools were used. 
